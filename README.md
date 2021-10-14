@@ -1,5 +1,5 @@
 Hi. I'm Yoonwoo. 👋
-Glad to meet you.
+I'm glad to meet you.
 
 <!--
 **GrilledSalmon/GrilledSalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
