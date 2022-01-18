@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 ![GrilledSalmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrilledSalmon&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrilledSalmon&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salmonsushi)](https://solved.ac/salmonsushi)
+<!--[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salmonsushi)](https://solved.ac/salmonsushi)-->
