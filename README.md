@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 ![GrilledSalmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrilledSalmon&show_icons=true&theme=great-gatsby)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salmonsushi)](https://solved.ac/salmonsushi)
 
-📚Used Stacks
+📚Studying
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
