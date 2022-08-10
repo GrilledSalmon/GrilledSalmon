@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ![GrilledSalmon's GitHub stats](https://github-readme-stats.vercel.app/api?username=GrilledSalmon&show_icons=true&theme=great-gatsby)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=salmonsushi)](https://solved.ac/salmonsushi)
 
+<a href="https://delicious-salmon.tistory.com/"> <img src="https://img.shields.io/badge/📜My Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"> </a>
+
 📚Studying
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
